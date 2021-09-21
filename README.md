@@ -1,4 +1,6 @@
-## Um protótipo da página inicial da netflix feito com React
+## Um protótipo da página inicial da Netflix feita com React
+
+
 
 Buscando a perfeição com hooks...
 
