@@ -3,4 +3,4 @@
 Buscando a perfeição com hooks...
 
 
- file:///home/guilherme/Downloads/netflix.png
+ ![netflix](https://user-images.githubusercontent.com/90736657/134259587-5f68821c-79e5-4c22-8161-88baf6693fa1.jpeg)
