@@ -1,8 +1,14 @@
 ## Um protótipo da página inicial da Netflix feita com React
 
+Feito para parecer ao máximo com a página do netflix...
 
-
-Buscando a perfeição com hooks...
+- Sombreados no título inicial
+- Imagens sinsíveis ao :hover com css
+- Barra de filmes com seta para pesquisar
+- Separação de filmes e séries por categorias
+- Aleatoriedade na escolha do filme principal
+- Design agradavel e bem desenvolvido
+- Responsivo
 
 #### API
 
